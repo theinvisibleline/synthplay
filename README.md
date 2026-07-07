@@ -7,4 +7,4 @@ it preserves narrative intent while specifying how images, sound, voice,
 and continuity are executed across generative models.
 
 SHA-256 (index.html):
-dc9b64c256f4cbd79675a801f114c2755cb767794db6103155efe1b9d4a86b45
+7f784fabf3e03ead1b36c9486528806c407273e2325f864195550dad5e7635eb
